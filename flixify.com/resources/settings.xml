@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="video_quality" type="select" label="Video Quality" values="Auto|1080p|720p" default="Auto"/>
+	<setting type="sep" />
+	<setting id="reset_auth" type="enum" label="Reset Auth" values="No|Yes" default="No"/>
+</settings>
